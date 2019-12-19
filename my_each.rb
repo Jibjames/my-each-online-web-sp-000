@@ -5,6 +5,6 @@ def my_each(arr)
     yield(arr[i])
     i = i + 1
   end
-  
+
   array
 end
